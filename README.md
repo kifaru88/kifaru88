@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**kifaru88/kifaru88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Kifaru88's%20World!&fontSize=35&animation=fadeIn&fontAlignY=40" />
 
-Here are some ideas to get you started:
+### 🧙‍♂️ About Me
+```yaml
+Name: Emmanuel Cheboi (Kifaru88)
+Class: Cybersecurity Adventurer 🛡
+Specialties:
+  - Offensive Security (WiFi, Web, PrivEsc)
+  - Ethical Hacking & Red Teaming
+  - Python & PowerShell Scripting
+  - RPG-style Web Dev & Creative Coding
+Level: Intermediate
+Guild: Open Source Explorers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
