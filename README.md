@@ -14,4 +14,82 @@ Specialties:
 Level: Intermediate
 Guild: Open Source Explorers
 
+---
 
+| Project                                                               | Description                                                               | Status              |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------- |
+| ⚔️ [RPG Portfolio Website](https://kifaru88.github.io/rpg-portfolio/) | A resume that looks like an anime game interface. Hosted on GitHub Pages. | ✅ Live              |
+| 🛠️ CyberLab                                                          | Ethical hacking tools and terminal scripts in Python, Bash & PowerShell.  | 🔧 Building         |
+| 🧩 Anime Maze Game                                                    | Unreal Engine project with 3D anime mazes, characters & boss fights.      | 🚧 Work in Progress |
+
+
+---
+
+| Skill                   | Level            | Style                          |
+| ----------------------- | ---------------- | ------------------------------ |
+| 🐍 Python               | 🟢🟢🟢🟢⚪ (4/5)  | Scripting, Exploits            |
+| 💻 PowerShell           | 🟢🟢🟢⚪⚪ (3/5)   | Automation, Windows Hacking    |
+| 🛜 WiFi Hacking         | 🟢🟢🟢🟢🟢 (5/5) | WPA/WEP, Evil Twin, Pixie Dust |
+| 🌐 Web Hacking          | 🟢🟢🟢⚪⚪ (3/5)   | SQLi, XSS, File Upload Bypass  |
+| 🔐 Privilege Escalation | 🟢🟢⚪⚪⚪ (2/5)    | Linux/Windows                  |
+| 🎮 Unreal Engine (C++)  | 🟢🟢⚪⚪⚪ (2/5)    | Game Dev, Maze Mechanics       |
+| 🧪 Bash Scripting       | 🟢🟢🟢⚪⚪ (3/5)   | Automation, Recon Tools        |
+| 🧠 Cybersecurity Theory | 🟢🟢🟢🟢⚪ (4/5)  | Red Teaming, Defense           |
+| ☁️ GitHub Pages         | 🟢🟢🟢⚪⚪ (3/5)   | Hosting Projects               |
+
+
+
+---
+
+📈 Quest Progress
+
+RPG Portfolio Website
+[██████████] 100% — Completed
+
+CyberLab Toolkit
+[██████░░░░] 60% — Tools & scripts in progress
+
+Anime Maze Game
+[██░░░░░░░░] 20% — Early development phase
+
+---
+
+📊 GitHub Stats
+
+
+
+
+---
+
+🎮 RPG Buffs
+
++10 Stealth — Python exploits
++15 Wisdom — Learning daily
++20 Strength — Terminal mastery
++50 XP     — GitHub contributions
+
+---
+
+🎯 Currently Leveling Up:
+
+    🌐 Full-stack Web Dev (Next.js, Flask)
+
+    🛡️ Ethical Hacking Certs (CEH, OSCP-like challenges)
+
+    🎮 Game Dev in Unreal (anime RPG mazes)
+
+---
+
+📫 Contact Me
+
+    Discord: kifaru88
+
+    Email: emmanuelcheboi17@gmail.com
+
+    Kenya 🇰🇪
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+
+    "Hack the planet. Code the dream. Protect the realm." ⚔️
