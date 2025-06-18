@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<img src="https://i.pinimg.com/originals/a4/ea/fe/a4eafe8e28bc55765d734b490a1bda60.gif" alt="Anime Banner" width="100%" />
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Kifaru88's%20World!&fontSize=35&animation=fadeIn&fontAlignY=40" />
 
 ### 🧙‍♂️ About Me
@@ -16,6 +20,7 @@ Guild: Open Source Explorers
 
 ---
 
+### ⚔️  Quest Log (Projects)
 | Project                                                               | Description                                                               | Status              |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------- |
 | ⚔️ [RPG Portfolio Website](https://kifaru88.github.io/rpg-portfolio/) | A resume that looks like an anime game interface. Hosted on GitHub Pages. | ✅ Live              |
@@ -25,6 +30,7 @@ Guild: Open Source Explorers
 
 ---
 
+### ⚙️ Skill Tree
 | Skill                   | Level            | Style                          |
 | ----------------------- | ---------------- | ------------------------------ |
 | 🐍 Python               | 🟢🟢🟢🟢⚪ (4/5)  | Scripting, Exploits            |
@@ -37,14 +43,12 @@ Guild: Open Source Explorers
 | 🧠 Cybersecurity Theory | 🟢🟢🟢🟢⚪ (4/5)  | Red Teaming, Defense           |
 | ☁️ GitHub Pages         | 🟢🟢🟢⚪⚪ (3/5)   | Hosting Projects               |
 
-
-
 ---
 
-📈 Quest Progress
+### 📈 Quest Progress
 
 RPG Portfolio Website
-[██████████] 100% — Completed
+[██████████] 80% — Completed
 
 CyberLab Toolkit
 [██████░░░░] 60% — Tools & scripts in progress
@@ -54,14 +58,25 @@ Anime Maze Game
 
 ---
 
-📊 GitHub Stats
+### 🏅 Achievements Unlocked
+
+- 🥇 **Deployed Your First RPG Portfolio**  
+- 🧠 **Built Your Own Ethical Hacking Toolkit**  
+- 🎮 **Started a 3D Anime Game Dev Journey**  
+- ⚔️ **Contributed to Open Source**  
+- 🔓 **Cracked Your First WiFi Network (Legally 😅)**  
+- 📦 **Set Up Your GitHub Like a True RPG Hero**
+
+---
+
+### 📊 GitHub Stats
 
 
 
 
 ---
 
-🎮 RPG Buffs
+### 🎮 RPG Buffs
 
 +10 Stealth — Python exploits
 +15 Wisdom — Learning daily
@@ -70,7 +85,7 @@ Anime Maze Game
 
 ---
 
-🎯 Currently Leveling Up:
+### 🎯 Currently Leveling Up:
 
     🌐 Full-stack Web Dev (Next.js, Flask)
 
